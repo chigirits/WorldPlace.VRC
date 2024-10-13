@@ -1,6 +1,6 @@
 {
     "samplesImported": false,
     "allowVRCPackageChanges": false,
-    "samplesHintCreated": false,
+    "samplesHintCreated": true,
     "debugVCCConnection": false
 }

@@ -3,8 +3,11 @@
     "com.vrchat.core.vpm-resolver": {
       "version": "0.1.29"
     },
-    "com.vrchat.base": {
-      "version": "3.7.2-beta.3"
+    "com.vrchat.avatars": {
+      "version": "3.7.1"
+    },
+    "com.anatawa12.animator-controller-as-a-code": {
+      "version": "0.2.12"
     }
   },
   "locked": {
@@ -12,8 +15,24 @@
       "version": "0.1.29",
       "dependencies": {}
     },
+    "com.vrchat.avatars": {
+      "version": "3.7.1",
+      "dependencies": {
+        "com.vrchat.base": "3.7.1"
+      }
+    },
     "com.vrchat.base": {
-      "version": "3.7.2-beta.3",
+      "version": "3.7.1",
+      "dependencies": {}
+    },
+    "com.anatawa12.animator-controller-as-a-code": {
+      "version": "0.2.12",
+      "dependencies": {
+        "com.anatawa12.custom-localization-for-editor-extension": "^1.0.0"
+      }
+    },
+    "com.anatawa12.custom-localization-for-editor-extension": {
+      "version": "1.2.0",
       "dependencies": {}
     }
   }

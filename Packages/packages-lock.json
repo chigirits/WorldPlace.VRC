@@ -1,5 +1,19 @@
 {
   "dependencies": {
+    "com.anatawa12.animator-controller-as-a-code": {
+      "version": "file:com.anatawa12.animator-controller-as-a-code",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.anatawa12.custom-localization-for-editor-extension": "^1.0.0"
+      }
+    },
+    "com.anatawa12.custom-localization-for-editor-extension": {
+      "version": "file:com.anatawa12.custom-localization-for-editor-extension",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.ai.navigation": {
       "version": "1.1.5",
       "depth": 0,
@@ -164,6 +178,12 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.vrchat.avatars": {
+      "version": "file:com.vrchat.avatars",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.vrchat.base": {
       "version": "file:com.vrchat.base",
       "depth": 0,
@@ -195,8 +215,8 @@
         "com.unity.nuget.newtonsoft-json": "3.0.2"
       }
     },
-    "com.vrchat.demo-template": {
-      "version": "file:com.vrchat.demo-template",
+    "tokyo.chigiri.worldplacevrc": {
+      "version": "file:tokyo.chigiri.worldplacevrc",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}

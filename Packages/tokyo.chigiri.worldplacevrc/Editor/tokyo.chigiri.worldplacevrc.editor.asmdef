@@ -1,5 +1,5 @@
 {
-    "name": "VRChatPackageTemplate.Editor",
+    "name": "tokyo.chigiri.worldplacevrc.editor",
     "references": [],
     "includePlatforms": [
         "Editor"
