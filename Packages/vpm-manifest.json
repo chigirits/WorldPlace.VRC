@@ -14,6 +14,12 @@
     },
     "lyuma.av3emulator": {
       "version": "3.4.6"
+    },
+    "nadena.dev.modular-avatar": {
+      "version": "1.10.3"
+    },
+    "tokyo.chigiri.avatarmatevrc": {
+      "version": "0.2.0"
     }
   },
   "locked": {
@@ -49,6 +55,23 @@
       "version": "3.4.6",
       "dependencies": {
         "com.vrchat.avatars": "^3.1.0"
+      }
+    },
+    "nadena.dev.modular-avatar": {
+      "version": "1.10.3",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.7.0",
+        "nadena.dev.ndmf": ">=1.5.4 <2.0.0-a"
+      }
+    },
+    "nadena.dev.ndmf": {
+      "version": "1.5.4",
+      "dependencies": {}
+    },
+    "tokyo.chigiri.avatarmatevrc": {
+      "version": "0.2.0",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.7.1"
       }
     }
   }

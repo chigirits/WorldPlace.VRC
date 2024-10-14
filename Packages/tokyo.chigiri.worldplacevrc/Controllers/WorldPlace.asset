@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7f6597cf0d6443784dd9523478e1ed5, type: 3}
+  m_Name: WorldPlace
+  m_EditorClassIdentifier: 
+  targetGuid: 7159ab16801f9a0488334230af9151af
+  targetPath: 
+  target: {fileID: 0}
+  generators:
+  - {fileID: 5292515803408988309}
+--- !u!114 &5292515803408988309
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50cc400cf52b1e84fba996a331979c1a, type: 3}
+  m_Name: WorldPlace
+  m_EditorClassIdentifier: 
+  generator: {fileID: 11400000}
+  localFalseMotion: {fileID: 7400000, guid: 29112e30134b678419e6509e4cbb5ac9, type: 2}
+  localTrueMotion: {fileID: 7400000, guid: 8c4d7b53179ba34488a655453b4da83c, type: 2}
+  orientationMotion: {fileID: 7400000, guid: 135b5af7bbf34274db4f2bb388e7db90, type: 2}
+  orientationResetMotion: {fileID: 7400000, guid: 29af79ee763a63141bf42354d02a6a41,
+    type: 2}
+  followingPBMotion: {fileID: 7400000, guid: 91c9b8b6dd5739d459c03c6038632b19, type: 2}
+  repositionMotion: {fileID: 7400000, guid: e2775b84ee963304f8996adae29afd87, type: 2}
+  fixedMotion: {fileID: 7400000, guid: e7c0732779a2d2047b58cd61f7366b74, type: 2}
+  presetB1Motion: {fileID: 7400000, guid: 113610a33ee929b468d0e6f58e325897, type: 2}

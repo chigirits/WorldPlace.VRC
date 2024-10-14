@@ -1,7 +1,7 @@
 {
   "name": "tokyo.chigiri.worldplacevrc",
   "displayName": "WorldPlace.VRC",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "unity": "2022.3",
   "description": "A world fix system for placing objects on the ground for VRChat Avatars",
   "vrchatVersion": "2022.1.1",
@@ -12,6 +12,7 @@
   },
   "license": "MIT",
   "vpmDependencies": {
-    "com.vrchat.avatars": ">=3.7.1"
+    "com.vrchat.avatars": "3.7.1",
+    "tokyo.chigiri.avatarmatevrc": "0.2.0"
   }
 }
