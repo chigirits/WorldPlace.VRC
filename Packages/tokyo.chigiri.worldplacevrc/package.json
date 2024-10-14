@@ -10,5 +10,8 @@
     "email": "chigirits@gmail.com",
     "url": "https://chigiri.tokyo"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.7.1"
+  }
 }

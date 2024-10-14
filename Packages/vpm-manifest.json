@@ -8,6 +8,12 @@
     },
     "com.anatawa12.animator-controller-as-a-code": {
       "version": "0.2.12"
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "1.8.2"
+    },
+    "lyuma.av3emulator": {
+      "version": "3.4.6"
     }
   },
   "locked": {
@@ -34,6 +40,16 @@
     "com.anatawa12.custom-localization-for-editor-extension": {
       "version": "1.2.0",
       "dependencies": {}
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "1.8.2",
+      "dependencies": {}
+    },
+    "lyuma.av3emulator": {
+      "version": "3.4.6",
+      "dependencies": {
+        "com.vrchat.avatars": "^3.1.0"
+      }
     }
   }
 }

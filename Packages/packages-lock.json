@@ -215,6 +215,18 @@
         "com.unity.nuget.newtonsoft-json": "3.0.2"
       }
     },
+    "jp.lilxyzw.liltoon": {
+      "version": "file:jp.lilxyzw.liltoon",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "lyuma.av3emulator": {
+      "version": "file:lyuma.av3emulator",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "tokyo.chigiri.worldplacevrc": {
       "version": "file:tokyo.chigiri.worldplacevrc",
       "depth": 0,
