@@ -9,9 +9,6 @@
     "com.anatawa12.animator-controller-as-a-code": {
       "version": "0.2.12"
     },
-    "jp.lilxyzw.liltoon": {
-      "version": "1.8.2"
-    },
     "lyuma.av3emulator": {
       "version": "3.4.6"
     },
@@ -20,6 +17,12 @@
     },
     "tokyo.chigiri.avatarmatevrc": {
       "version": "0.2.0"
+    },
+    "jp.lilxyzw.editortoolbox": {
+      "version": "1.2.2"
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "1.8.3"
     }
   },
   "locked": {
@@ -47,10 +50,6 @@
       "version": "1.2.0",
       "dependencies": {}
     },
-    "jp.lilxyzw.liltoon": {
-      "version": "1.8.2",
-      "dependencies": {}
-    },
     "lyuma.av3emulator": {
       "version": "3.4.6",
       "dependencies": {
@@ -73,6 +72,14 @@
       "dependencies": {
         "com.vrchat.avatars": ">=3.7.1"
       }
+    },
+    "jp.lilxyzw.editortoolbox": {
+      "version": "1.2.2",
+      "dependencies": {}
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "1.8.3",
+      "dependencies": {}
     }
   }
 }
